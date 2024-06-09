@@ -22,6 +22,6 @@ rm -rf akuh.zip root.zip root.tar.xz
 clear
 echo "-: Welcome to Render (Debian)! :-"
 echo "-: It is highly reccomended you run pkg.sh first before Installing anything. :-"
-echo "-: I added "toys" to Debian that include neofetch and cmatrix :-"
+echo "-: I added "toys" to Debian that include neofetch and cmatrix. :-"
 ./dist/proot -S . /bin/bash
 fi
